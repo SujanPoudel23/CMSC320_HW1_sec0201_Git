@@ -11,3 +11,10 @@ temperature, humidity, and many other factors that are pulled from sensors which
 future weather. The weatherman on TV is using advanced models that take the data in order to create
 a prediction. Theoretically, if we knew every single state of every air molecule at every moment,
 we could predict weather with 100% certainty. 
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging takes one branch and joins it with another branch. It creates a merge commit
+to show a chronological sequence of the codebase. Rebasing doesn't create a new merge commit
+and moves the commits on top of the base. 
