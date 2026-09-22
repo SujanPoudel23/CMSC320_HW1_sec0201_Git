@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is a version control system, and we should consider using it because it provides
+a clean history of any codebase you build while showing collaborators a presentable way of
+changes made to a codebase.
+
