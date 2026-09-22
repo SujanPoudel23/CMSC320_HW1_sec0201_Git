@@ -4,3 +4,10 @@ Answer: Git is a version control system, and we should consider using it because
 a clean history of any codebase you build while showing collaborators a presentable way of
 changes made to a codebase.
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to the field of meterology. Meterology is literally using
+past atmospheric data to predict the weather. You can use temperature, humidity, and many other
+factors to predict weather, and theoretically, if we knew the state of every air molecule in the air
+we could predict weather with certainty. 
+
